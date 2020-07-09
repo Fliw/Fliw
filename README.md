@@ -3,6 +3,7 @@
 ### Introduction
 [](https://img.shields.io/github/license/Fliw/Fliw)
 [](https://img.shields.io/badge/Age-19-blue)
+https://img.shields.io/github/stars/Fliw/fliw
 > **Hello, My name is Muhammad Rafly Indrawan,** a web developer based in **Yogyakarta**.
 > 
 > Everyday I work and study through my project.
