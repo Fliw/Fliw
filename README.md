@@ -27,3 +27,4 @@ also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev)
 - :electron: I'm Currently Learning React JS for Frontend Frameworks.
 - 📫 How To Reach Me: [My Personal Website](https://fliw.github.io),[Facebook](https://facebook.com/Fliw.Id),[Linkedin](https://www.linkedin.com/in/Fliw/), Even [Whatsapp](https://api.whatsapp.com/send?phone=6283879178489).
 - ⚡ Fun Fact: I'd Like to make a Article in [Medium](https://medium.com/@muhammadraflyindrawan) about a new Tech, i just get it from many **reference**. actually,I have not use that tech yet.
+![wakatime](https://wakatime.com/share/@Fliw/98996fe7-b722-4df2-ac7f-ca21555a7fba.png)
