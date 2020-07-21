@@ -12,16 +12,16 @@
 - ⚡ Fun Fact: I'd Like to make a Article in [Medium](https://medium.com/@muhammadraflyindrawan) about a new Tech, i just get it from many **reference**. actually,I have not use that tech yet.
 ### My Tech Stack
 <hr/>
-<a href="https://www.linkedin.com/in/Fliw/">
-  <img align="left" alt="Rafly Indrawan | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://web.facebook.com/Fliw.id">
-  <img align="left" alt="Rafly Indrawan | Facebook" width="21px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=6283879178489">
-  <img align="left" alt="Rafly's Whatsapp" width="21px" src="https://pngimage.net/wp-content/uploads/2018/06/whatsapp-flat-icon-png-5.png" />
-</a><br>
-
+  <img align="left" width="20px" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" />
+  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
+  <img align="left" width="20px" src="https://f1.pngfuel.com/png/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clip-art.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 ### Contact me on
 <hr/>
 <a href="https://www.linkedin.com/in/Fliw/">
