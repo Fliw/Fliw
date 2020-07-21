@@ -20,7 +20,7 @@
 </a>
 <a href="https://api.whatsapp.com/send?phone=6283879178489">
   <img align="left" alt="Rafly's Whatsapp" width="21px" src="https://pngimage.net/wp-content/uploads/2018/06/whatsapp-flat-icon-png-5.png" />
-</a>
+</a><br>
 
 ### Contact me on
 <hr/>
