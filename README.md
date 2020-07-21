@@ -7,6 +7,7 @@
 > I'm Co-Founder of [Digital Kode](https://digitalkode.com)
 > also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
 ### Current Activity
+- :earth_asia: I'm So Interested With Artificial Intelligence And Machine Learning.
 - :electron: I'm Currently Learning React JS for Frontend Frameworks.
 - 📫 How To Reach Me: [My Personal Website](https://fliw.github.io),[Facebook](https://facebook.com/Fliw.Id),[Linkedin](https://www.linkedin.com/in/Fliw/), Even [Whatsapp](https://api.whatsapp.com/send?phone=6283879178489).
 - ⚡ Fun Fact: I'd Like to make a Article in [Medium](https://medium.com/@muhammadraflyindrawan) about a new Tech, i just get it from many **reference**. actually,I have not use that tech yet.
