@@ -12,16 +12,16 @@
 - ⚡ Fun Fact: I'd Like to make a Article in [Medium](https://medium.com/@muhammadraflyindrawan) about a new Tech, i just get it from many **reference**. actually,I have not use that tech yet.
 ### My Tech Stack
 <hr/>
-  <img align="left" width="20px" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" />
-  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
-  <img align="left" width="20px" src="https://f1.pngfuel.com/png/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clip-art.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" width="20px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="40px" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" />
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+  <img align="left" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
+  <img align="left" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZ3xANLd6ZwGEPgv-wqCz4oV3Kv38Kdj-Tt7dKOV3qTb-4b-k4cG9A-dBj5BUUrYI61tuFq-FgvVkKWA&usqp=CAU" />
+  <img align="left" width="40px" src="https://www.excelsiortechnologies.com/img/about/node-js.png" />
+  <img align="left" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
+  <img align="left" width="40px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+  <img align="left" width="40px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
 ### Contact me on
 <hr/>
 <a href="https://www.linkedin.com/in/Fliw/">
