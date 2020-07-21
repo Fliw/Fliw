@@ -3,8 +3,6 @@
 ![Age](https://img.shields.io/badge/Age-19-blue)
 ![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
 # Hi There! I'm [Rafly!](https://fliw.github.io) 👋
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="Anurag's github stats" /></a>
-<br />
 <a href="https://www.linkedin.com/in/Fliw/">
   <img align="left" alt="Rafly Indrawan | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
@@ -14,6 +12,9 @@
 <a href="https://api.whatsapp.com/send?phone=6283879178489">
   <img align="left" alt="Rafly's Whatsapp" width="21px" src="https://pngimage.net/wp-content/uploads/2018/06/whatsapp-flat-icon-png-5.png" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="Anurag's github stats" /></a>
+<br />
+
 <br/>
 <br/>
 > I'm Co-Founder of [Digital Kode](https://digitalkode.com)
