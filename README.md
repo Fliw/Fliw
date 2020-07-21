@@ -1,8 +1,9 @@
 # Hi There! I'm [Rafly!](https://fliw.github.io) 👋
-<hr>
+
 ![license](https://img.shields.io/github/license/Fliw/Fliw)
 ![Age](https://img.shields.io/badge/Age-19-blue)
 ![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
+<hr>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="Anurag's github stats" /></a>
 > I'm Co-Founder of [Digital Kode](https://digitalkode.com)
 > also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
