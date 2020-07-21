@@ -17,7 +17,6 @@
 <br />
 I'm Co-Founder of [Digital Kode](https://digitalkode.com)
 also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
-![Fliw github stats](https://github-readme-stats.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight)
 ### Current Activity
 - :electron: I'm Currently Learning React JS for Frontend Frameworks.
 - 📫 How To Reach Me: [My Personal Website](https://fliw.github.io),[Facebook](https://facebook.com/Fliw.Id),[Linkedin](https://www.linkedin.com/in/Fliw/), Even [Whatsapp](https://api.whatsapp.com/send?phone=6283879178489).
