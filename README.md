@@ -4,6 +4,7 @@
 
 
 ![fliw's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fliw&theme=tokyonight)
+\
 ![license](https://img.shields.io/github/license/Fliw/Fliw)
 ![Age](https://img.shields.io/badge/Age-19-blue)
 ![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
