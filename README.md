@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/github/license/Fliw/Fliw)
 ![Age](https://img.shields.io/badge/Age-19-blue)
 ![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="fliw's github stats" /></a>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="fliw's github stats" />
 > I'm Co-Founder of [Digital Kode](https://digitalkode.com)
 > also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
 ### Current Activity
@@ -15,6 +15,7 @@
 
 <center>
 <hr/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fliw&theme=tokyonight" alt="fliw's github stats" />
   <img align="left" width="40px" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" />
   <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
   <img align="left" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
