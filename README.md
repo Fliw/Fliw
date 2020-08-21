@@ -4,7 +4,6 @@
 ![Age](https://img.shields.io/badge/Age-19-blue)
 ![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="fliw's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fliw&theme=tokyonight" alt="fliw's github stats" /></a>
 > I'm Co-Founder of [Digital Kode](https://digitalkode.com)
 > also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
 ### Current Activity
