@@ -20,6 +20,13 @@ const Fliw = {
         devOps: ["Nginx", "Jenkins"],
         misc: ["Firebase", "Pusher"]
     }
+    Social:{
+        Facebook : "Facebook.com/Fliw.id",
+        Linkedin : "https://www.linkedin.com/in/Fliw/",
+        Whatsapp : "https://api.whatsapp.com/send?phone=6283879178489",
+        Instagram : "https://instagram.com/fliw__",
+        Website : "https://fliwpage.firebaseapp.com/"
+    }
 }
 ```
 
