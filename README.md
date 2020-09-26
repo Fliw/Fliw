@@ -1,6 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-## Hola! 🙏, I'm Muhammad Rafly Indrawan, you can call me Fliw. 
+## Hola! 🙏, I'm Muhammad Rafly Indrawan. 
 ## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Fliw-blue)](https://www.linkedin.com/in/fliw/)
