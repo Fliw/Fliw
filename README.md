@@ -1,29 +1,26 @@
-# Hi There! I'm [Rafly!](https://fliw.github.io) 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fliw&show_icons=true&theme=tokyonight" alt="fliw's github stats"/>
+## Hola! 🙏, I'm Muhammad Rafly Indrawan, you can call me Fliw. 
+## Full Stack Developer 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-Fliw-blue)](https://www.linkedin.com/in/fliw/)
+[![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
 
 
-![fliw's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fliw&theme=tokyonight)
-\
-![license](https://img.shields.io/github/license/Fliw/Fliw)
-![Age](https://img.shields.io/badge/Age-19-blue)
-![location](https://img.shields.io/badge/Live%20in-Yogyakarta-yellow)
-> I'm Co-Founder of [Digital Kode](https://digitalkode.com)
-> also I'm IT Manager at [Idejualan Company](idejualan.now.sh) (Under Dev) 
-### Current Activity
-- :earth_asia: I'm So Interested With Artificial Intelligence And Machine Learning.
-- :electron: I'm Currently Learning React JS for Frontend Frameworks.
-- 📫 How To Reach Me: [My Personal Website](https://fliw.github.io),[Facebook](https://facebook.com/Fliw.Id),[Linkedin](https://www.linkedin.com/in/Fliw/), Even [Whatsapp](https://api.whatsapp.com/send?phone=6283879178489).
-- ⚡ Fun Fact: I'd Like to make a Article in [Medium](https://medium.com/@muhammadraflyindrawan) about a new Tech, i just get it from many **reference**. actually,I have not use that tech yet.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### Contact me on
-<hr/>
-<a href="https://www.linkedin.com/in/Fliw/">
-  <img align="left" alt="Rafly Indrawan | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://web.facebook.com/Fliw.id">
-  <img align="left" alt="Rafly Indrawan | Facebook" width="40px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=6283879178489">
-  <img align="left" alt="Rafly's Whatsapp" width="40px" src="https://pngimage.net/wp-content/uploads/2018/06/whatsapp-flat-icon-png-5.png" />
-</a>
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech", "artificial intelligence"],
+    technologies:{
+        backEnd: ["Nodejs", "Express", "Laravel", "PHP"],
+        fronEnd: ["Vanilla JS", "Bootstrap", "Materialize", "React"],
+        database: ["mySql"],
+        devOps: ["Nginx", "Jenkins"],
+        misc: ["Firebase", "Pusher"]
+    }
+}
+```
+
+---
