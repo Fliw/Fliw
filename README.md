@@ -20,7 +20,7 @@ const Fliw = {
         database: ["mySql"],
         devOps: ["Nginx", "Jenkins"],
         misc: ["Firebase", "Pusher"]
-    }
+    },
     Social:{
         Facebook : "Facebook.com/Fliw.id",
         Linkedin : "https://www.linkedin.com/in/Fliw/",
