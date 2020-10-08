@@ -8,7 +8,6 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-![Fliw's github stats](https://github-readme-stats.vercel.app/api?username=fliw&theme=midnight-purple&show_icons=true)
 ```javascript
 const Fliw = {
     pronouns: "He" | "Him",
@@ -29,5 +28,5 @@ const Fliw = {
     }
 }
 ```
-
+![Fliw's github stats](https://github-readme-stats.vercel.app/api?username=fliw&theme=midnight-purple&show_icons=true)
 ---
