@@ -30,4 +30,4 @@ const Fliw = {
     }
 }
 ```
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fliw&theme=midnight-purple&show_icons=true" width="100%"/>
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fliw&theme=calm&show_icons=true" width="100%"/>
