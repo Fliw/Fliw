@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300"/>
 
 # Hola! I'm Muhammad Rafly Indrawan. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
@@ -31,4 +31,3 @@ const Fliw = {
 }
 ```
 <img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fliw&theme=midnight-purple&show_icons=true" width="100%"/>
----
