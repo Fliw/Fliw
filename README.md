@@ -26,7 +26,7 @@ const Fliw = {
         Linkedin : "https://www.linkedin.com/in/Fliw/",
         Whatsapp : "https://api.whatsapp.com/send?phone=6283879178489",
         Instagram : "https://instagram.com/fliw__",
-        Website : "https://fliwcv.web.app/"
+        Website : "https://fliwcv.firebaseapp.com/"
     }
 }
 ```
