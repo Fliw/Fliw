@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Fliw-blue)](https://www.linkedin.com/in/fliw/)
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
 [![](https://img.shields.io/badge/Age-19-green)](mailto:fliw@digitalkode.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fliw)
 > I'm Just Another lifetime learner Developer who want to help other especially in coding.
 > Currently, I'm still learning React.js for Frontend.
 > Highly Excited with Artificial Intelligence (AI).
