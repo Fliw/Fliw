@@ -2,7 +2,6 @@
 
 # Hola! I'm Muhammad Rafly Indrawan. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![](https://img.shields.io/badge/LinkedIn-Fliw-blue)](https://www.linkedin.com/in/fliw/)
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
 [![](https://img.shields.io/badge/Age-19-green)](mailto:fliw@digitalkode.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fliw)
