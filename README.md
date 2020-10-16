@@ -29,4 +29,3 @@ const Fliw = {
     }
 }
 ```
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fliw&theme=calm&show_icons=true" width="100%"/>
