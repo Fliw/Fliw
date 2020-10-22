@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="400" height="600"/>
 
 # Hola! I'm Muhammad Rafly Indrawan. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
