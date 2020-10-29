@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="300" height="600"/>
-
 # Hola! I'm Muhammad Rafly Indrawan. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
