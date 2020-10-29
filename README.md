@@ -8,7 +8,7 @@
 > Highly Excited with Artificial Intelligence (AI).
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
 ![age](https://img.shields.io/badge/Age-19-green)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fliw.visitor-badge)
