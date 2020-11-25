@@ -1,4 +1,4 @@
-<img src="https://github.com/Fliw/Fliw/blob/master/Group%2010.jpg" width="100%">
+<img src="https://github.com/Fliw/Fliw/blob/master/Group%2010.png" width="100%">
 
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
 ![age](https://img.shields.io/badge/Age-19-green)
