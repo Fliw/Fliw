@@ -1,12 +1,8 @@
 [![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
-![age](https://img.shields.io/badge/Age-19-green)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fliw.visitor-badge) <br>
-> Hi There! I'm Rafly, you can call me fliw.
-> I'm a (Sometimes) Fullstack Web Developer, more experienced in backend.
-> If you need to know something about me, check on https://fliw.tech ..
-> See ya!
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fliw.visitor-badge)
 
 
+<img src="https://cardivo.vercel.app/api?name=Fliw&description=Hi%20There!%20I%27m%20Rafly,%20you%20can%20call%20me%20fliw.%20I%27m%20a%20(Sometimes)%20Fullstack%20Web%20Developer,%20more%20experienced%20in%20backend.&image=https://avatars.githubusercontent.com/u/56640907&backgroundColor=%23ecf0f1&instagram=fliw__&linkedin=Fliw&github=Fliw&site=https://fliw.tech&pattern=brickWall&colorPattern=%23eaeaea" width="100%">
 <img src="https://activity-graph.herokuapp.com/graph?username=fliw&theme=react-dark" width="100%">
 <p float="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=fliw&theme=graywhite&show_icons=true" width="48%" />
