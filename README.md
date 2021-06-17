@@ -2,7 +2,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=fliw&theme=react-dark#1" width="100%">
 <p float="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=fliw#1" width="48%" />
-  <img src="https://wakatime.com/share/@Fliw/e8b68c74-3fea-419f-8557-d426cd8e32ca.svg?sanitize=true#1" width="48%" /> 
+  <img src="https://wakatime.com/share/@Fliw/903e92e0-aa3f-4084-a243-9d05eb0120ba.png" width="48%" /> 
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=fliw#1" width="100%">
 
