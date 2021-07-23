@@ -1,13 +1,82 @@
-<img src="https://cardivo.vercel.app/api?name=Fliw&description=Hi%20There!%20I%27m%20Rafly,%20you%20can%20call%20me%20fliw.%20I%27m%20a%20(Sometimes)%20Fullstack%20Web%20Developer,%20more%20experienced%20in%20backend.&image=https://avatars.githubusercontent.com/u/56640907&backgroundColor=%23ecf0f1&instagram=fliw__&linkedin=Fliw&github=Fliw&site=https://fliw.tech&pattern=brickWall&colorPattern=%23eaeaea" width="100%">
-<img src="https://activity-graph.herokuapp.com/graph?username=fliw&theme=react-dark#1" width="100%">
+```php
+<?php
+
+namespace Fliw;
+
+class About extends Me
+{
+    /**
+     * Display current life motives.
+     *
+     * @param null
+     * @return string
+     */
+    public function getCurrentProfile(): string {
+        return 'an Ordinary Young Web Developer who want to help each other to be coder!';
+    }
+    
+    /**
+     * Display user's 'secret' detail.
+     *
+     * @param null
+     * @return array
+     */
+    private function getProfilingDetail(): array {
+        return [
+            'age' => 20,
+            'phone' => '+628812671057',
+            'email' => 'Fliw@DigitalKode.com'
+        ];
+    }
+    
+    /**
+     * Display current workplaces.
+     *
+     * @param null
+     * @return array
+     */
+    public function getCurrentWorkplace(): array {
+        return [
+            'workplace' => 
+              [
+                'company' => 'PT. Ide Jualan Creative',
+                'position' => 'Founder & CTO'         
+              ],
+              [
+                'company' => 'PT. Naisha Inspirasi Muslimah',
+                'position' => 'Lead Developer'
+              ],
+              [
+                'company' => 'Digital Kode',
+                'position' => 'Co-Founder'
+              ]
+        ];
+    }
+
+    /**
+     * Display Skills & Knowledge.
+     *
+     * @param null
+     * @return array of class
+     */
+    public function getDailyKnowledge(): array {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            ReactJs::class,
+            Docker::class,
+            MySql::class,
+            TailwindCss::class
+        ];
+    }
+}
+```
+<img src="https://github-profile-trophy.vercel.app/?username=fliw#1" width="100%">
 <p float="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=fliw#1" width="48%" />
   <img src="https://wakatime.com/share/@Fliw/903e92e0-aa3f-4084-a243-9d05eb0120ba.png" width="48%" /> 
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=fliw#1" width="100%">
 
-
-[![](https://img.shields.io/badge/Email-Fliw@DigitalKode.com-red)](mailto:fliw@digitalkode.com)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fliw.visitor-badge)
 
                                       
