@@ -43,10 +43,6 @@ class About extends Me
                 'position' => 'Founder & CTO'         
               ],
               [
-                'company' => 'PT. Naisha Inspirasi Muslimah',
-                'position' => 'Lead Developer'
-              ],
-              [
                 'company' => 'Digital Kode',
                 'position' => 'Co-Founder'
               ]
