@@ -40,7 +40,15 @@ class About extends Me
             'workplace' => 
               [
                 'company' => 'PT. Ide Jualan Creative',
-                'position' => 'Founder & CTO'         
+                'position' => 'Co-Founder & CTO'         
+              ],
+              [
+                'company' => 'PT. Naisha Inspirasi Muslimah',
+                'Position' => 'Lead Engineer & Code Reviewer'
+              ],
+              [
+                'company' => 'Kampusjualan by Idejualan',
+                'Position' => 'Lead IT Engineer'
               ],
               [
                 'company' => 'Digital Kode',
@@ -57,13 +65,16 @@ class About extends Me
      */
     public function getDailyKnowledge(): array {
         return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            ReactJs::class,
-            Docker::class,
+            PHP::class,
+            JavaScript::class,
+            TypeScript::class,
             MySql::class,
-            TailwindCss::class
+            MongoDB::class,
+            Java::class,
+            CPlusPlus::class,
+            CSharp::class,
+            Dart::class,
+            Python::class
         ];
     }
 }
