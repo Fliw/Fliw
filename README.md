@@ -1,15 +1,4 @@
 ![terminal (1)](https://github.com/Fliw/Fliw/assets/56640907/a90bf57e-077b-4d44-872a-58624ec3201d)
-> My name is Muhammad Rafly
-> Indrawan, A Programmer and
-> IT Enthusiast who domiciled in
-> Yogyakarta, 22 years old, love
-> coding from senior high school,
-> already handle 35+ websites
-> with 4 years professional
-> experience. love challenge and
-> new / strange things. currently
-> focused on learning AI,
-> especially machine learning.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fliw@DigitalKode.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fliw.github.io)
