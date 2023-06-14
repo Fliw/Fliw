@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# :raised_hand: Hi There! I'm Fliw.
+![terminal (1)](https://github.com/Fliw/Fliw/assets/56640907/a90bf57e-077b-4d44-872a-58624ec3201d)
 > My name is Muhammad Rafly
 > Indrawan, A Programmer and
 > IT Enthusiast who domiciled in
@@ -22,10 +21,15 @@
 [![](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10666774)
 
 ## :information_desk_person: Want to know more about me?
-> Just type this in your console / CLI
+> Just type this in your console / CLI, make sure you have NPX ;)
 ```
 npx fliw
 ```
+## :book: Read My Latest Article on Medium
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/3" width="50%">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/2" width="50%">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/1" width="50%">
+
 ## :wrench: My Everyday Tools
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,8 +53,10 @@ npx fliw
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 <p float="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark#1?" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark#1?" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=fliw" width="50%">
   <img src="https://github-contribution-stats.vercel.app/api/?username=fliw#1?" width="48%" />
   <img src="https://wakatime.com/share/@Fliw/cda74369-cd26-440b-b0b0-d2d8a78ba74e.png" width="50%" />
 </p>
