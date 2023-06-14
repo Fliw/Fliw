@@ -3,7 +3,7 @@
 > My name is Muhammad Rafly
 > Indrawan, A Programmer and
 > IT Enthusiast who domiciled in
-> Yogyakarta, 21 years old, love
+> Yogyakarta, 22 years old, love
 > coding from senior high school,
 > already handle 35+ websites
 > with 4 years professional
@@ -50,8 +50,9 @@ npx fliw
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 <p float="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark#1?" width="60%">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=fliw#1?" width="38%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark#1?" width="100%">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=fliw#1?" width="48%" />
+  <img src="https://wakatime.com/share/@Fliw/cda74369-cd26-440b-b0b0-d2d8a78ba74e.png" width="50%" />
 </p>
 
 
