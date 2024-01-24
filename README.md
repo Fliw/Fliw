@@ -14,10 +14,6 @@
 ```
 npx fliw
 ```
-## :book: Read My Latest Article on Medium
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/3" width="50%">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/2" width="50%">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadraflyindrawan/1" width="50%">
 
 ## :wrench: My Everyday Tools
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
