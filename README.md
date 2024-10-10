@@ -52,6 +52,7 @@ npx fliw
 <h2 align="center">:chart_with_upwards_trend: My GitHub Stats</h2>
 <p align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark" width="100%" alt="GitHub trophy" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=fliw" width="100%" alt="GitHub contribution stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark" width="40%" alt="GitHub trophy" />
+  <br>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=fliw" width="40%" alt="GitHub contribution stats" />
 </p>
