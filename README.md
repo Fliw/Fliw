@@ -1,8 +1,11 @@
-<h1 align="center">Hi there, I'm Fliw 👋</h1>
+
+# Hi there, I'm Fliw 👋
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:Hello@Fliw.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://fliw.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="https://fliw.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
   <a href="https://wa.me/628812671057"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://facebook.com/fliw.id"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/fliw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -11,13 +14,48 @@
   <a href="https://www.sololearn.com/profile/10666774"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn"></a>
 </p>
 
-<h2 align="center">:information_desk_person: Want to know more about me?</h2>
+---
 
-<p align="center">Just type this in your console / CLI, make sure you have NPX ;)</p>
+
+# About Me
+
+I am an **experienced backend programmer** with a deep passion for coding and a strong specialization in **AI and machine learning**. Over the course of my career, I have developed more than **35 websites** since high school and gained **five years of professional experience**. I thrive on solving complex challenges and staying at the forefront of advancements in technology.
+
+## 🌟 Career Highlights
+
+I have worked on a wide array of projects, showcasing versatility and innovation:
+
+- **E-commerce Applications**: From small-scale solutions to enterprise-grade systems supporting over 1 million users.
+- **HR Management Systems**: Streamlining employee lifecycle management.
+- **AI Decision Support Applications**: Empowering businesses with data-driven insights.
+- **P2P Lending Platforms**: Facilitating seamless peer-to-peer financial transactions.
+- **Edutech Applications**: Revolutionizing education with technology-driven solutions.
+- **POS & Inventory Systems**: Enhancing operational efficiency for businesses.
+- **Courier Aggregator Platforms**: Simplifying logistics through unified solutions.
+- **Thesaurus Applications**: Supporting language and vocabulary development.
+- **Competition Platforms**: Managing end-to-end competitive events.
+- **Religious Applications**: Providing resources for spiritual engagement.
+
+---
+
+## 🔭 Current Focus
+
+I am driven by a strong passion for **AI and machine learning**. My goal is to contribute to innovative, **AI-driven solutions** that enhance user experiences and address real-world challenges.
+
+---
+
+## 📩 More About Me
+
+- Visit my website: [https://Fliw.Dev](https://Fliw.Dev)  
+- Reach out via email: **Hello@Fliw.Dev**
+
+To learn more about me, run the following command in your terminal/CLI (requires NPX installed):
 
 ```bash
 npx fliw
 ```
+
+<img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark" width="40%" alt="GitHub trophy" />
 
 <h2 align="center">:wrench: My Everyday Tools</h2>
 <p align="center">
@@ -102,11 +140,4 @@ npx fliw
   <h4 align="center"> Container & Virtualization
   <br><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-</p>
-<h2 align="center">:chart_with_upwards_trend: My GitHub Stats</h2>
-<p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=fliw&row=2&column=4&theme=onedark" width="40%" alt="GitHub trophy" />
-  <br>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=fliw" width="40%" alt="GitHub contribution stats" />
 </p>
