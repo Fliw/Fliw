@@ -19,15 +19,17 @@
 
 # About Me
 
-I am an **experienced backend programmer** with a deep passion for coding and a strong specialization in **AI and machine learning**. Over the course of my career, I have developed more than **41 websites** since high school and gained **Six years of professional experience**. I thrive on solving complex challenges and staying at the forefront of advancements in technology.
+I am an **experienced backend programmer** with a deep passion for coding and a strong specialization in **AI and machine learning**. Over the course of my career, I have developed more than **45 websites** since high school and gained **Six years of professional experience**. I thrive on solving complex challenges and staying at the forefront of advancements in technology.
 
 ## 🌟 Career Highlights
 
 I have worked on a wide array of projects, showcasing versatility and innovation:
 
 - **E-commerce Applications**: From small-scale solutions to enterprise-grade systems supporting over 1 million users.
-- **HR Management Systems**: Streamlining employee lifecycle management.
 - **AI Decision Support Applications**: Empowering businesses with data-driven insights.
+- **AI Face Recognition**: Facilitating office by using technology detect & identify face of employees.
+- **AI Generative Adversarial Network**: Focusing on generating image to augmenting datasets.
+- **HR Management Systems**: Streamlining employee lifecycle management.
 - **P2P Lending Platforms**: Facilitating seamless peer-to-peer financial transactions.
 - **Edutech Applications**: Revolutionizing education with technology-driven solutions.
 - **POS & Inventory Systems**: Enhancing operational efficiency for businesses.
